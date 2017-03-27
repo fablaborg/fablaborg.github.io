@@ -1473,8 +1473,23 @@ video {
 
 .logo-top {
     height:20px;
-
+    margin-top: 20px;
+    padding-left: 34px;
+    float:left;
 }
+
+.top-div {
+    position: fixed;
+    height: 60px;
+    background-color: #{{ site.color.primary }};
+    width: 100%;
+    z-index: 5;
+    -webkit-box-shadow: 0 3px 9px -2px ;
+    -moz-box-shadow: 0 3px 9px -2px #231f20;
+    box-shadow: 0 3px 9px -2px #231f20;
+}
+
+
 
 .box-grow {
     -moz-osx-font-smoothing: grayscale;
