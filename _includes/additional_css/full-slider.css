@@ -1,0 +1,63 @@
+/*
+ * Start Bootstrap - Full Slider (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+html,
+body {
+    height: 100% !important;
+}
+
+.carousel,
+.item,
+.active {
+    height: 380px;
+}
+
+@media (min-width: 768px) {
+    .carousel,
+    .item,
+    .active {
+        height: 100%;
+    }
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-repeat: none;
+}
+
+footer {
+    /*margin: 50px 0;*/
+}
+
+.carousel-control.right {
+    right: 0;
+    left: auto;
+    background-image: -webkit-linear-gradient(left,rgba(0,0,0,.0001) 0,rgba(0, 0, 0, 0.13) 100%);
+    background-image: -o-linear-gradient(left,rgba(0,0,0,.0001) 0,rgba(00, 0, 0, 0.13) 100%);
+    background-image: -webkit-gradient(linear,left top,right top,from(rgba(0,0,0,.0001)),to(rgba(0, 0, 0, 0.13)));
+    background-image: linear-gradient(to right,rgba(0,0,0,.0001) 0,rgba(0, 0, 0, 0.13) 100%);
+    }
+
+.carousel-control.left {
+    background-image: -webkit-linear-gradient(left,rgba(0, 0, 0, 0.13) 0,rgba(0,0,0,.0001) 100%);
+    background-image: -o-linear-gradient(left,rgba(0, 0, 0, 0.13) 0,rgba(0,0,0,.0001) 100%);
+    background-image: -webkit-gradient(linear,left top,right top,from(rgba(0, 0, 0, 0.13)),to(rgba(0,0,0,.0001)));
+    background-image: linear-gradient(to right,rgba(0, 0, 0, 0.13) 0,rgba(0,0,0,.0001) 100%);
+}
