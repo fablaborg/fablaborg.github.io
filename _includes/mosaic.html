@@ -1,0 +1,13 @@
+<section id="mosaic">
+  <div class="container">
+  {% for org in site.data.orgs %}               
+      <div class="col-xs-12 col-sm-6 col-md-4 org-div box-grow">
+        <table id="wrapper">
+          <tr>
+            <td><a href="{{ org.url }}" target="_blank"><img class="org-img" src="https://fablaborg.github.io/demo/img/logos/{{ org.img }}"></td>   </a>
+          </tr>
+        </table>
+      </div>
+  {% endfor %}
+  </div>
+</section>
