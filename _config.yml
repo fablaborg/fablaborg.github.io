@@ -3,7 +3,9 @@
 title: Fablab Organization Website
 email: info@fabfoundation.org
 description: "A directory for all the projects within the Fablab Organization. "
-url: 
+
+url: https://fablaborg.github.io/
+baseurl: /demo/
 
 
 
