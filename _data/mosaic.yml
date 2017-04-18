@@ -8,6 +8,7 @@
   img: fab13.png
   bgcolor: 1B3457
   fontcolor: e0dfdf
+  category: events
 
 - onlyimage: true
   bgimg: fab12.jpg
@@ -17,6 +18,7 @@
   description: "Created to support the growth of the Fab Lab network."
   url: http://www.fabfoundation.org/
   img: fabfoundation.png
+  category: network
 
 - onlyimage: true
   bgimg: neil.jpg
@@ -26,6 +28,7 @@
   description: "A new urban model for locally productive, globally connected cities."
   url: http://www.fab.city/
   img: fabcity.png
+  category: network
 
 - onlyimage: true
   bgimg: residencies-paris-EMA.jpg
@@ -35,6 +38,7 @@
   description: "The place where we connect, interact, discuss, showcase and share projects and machines."
   url: https://www.fablabs.io/
   img: fablabsio.png
+  category: network
 
 - onlyimage: true
   bgimg: adriana_ionascu.jpg
@@ -46,6 +50,7 @@
   img: fabacademy.png
   bgcolor: 2B9569
   fontcolor: ffffff
+  category: education
 
 - onlyimage: true
   bgimg: fabacademy_bcn_2016.jpg
@@ -57,6 +62,7 @@
   img: bioacademy.png
   bgcolor: 2B9569
   fontcolor: ffffff
+  category: education
 
 - onlyimage: true
   bgimg: workshops_bcn.png
@@ -68,6 +74,7 @@
   img: textile_academy.png
   bgcolor: 2B9569
   fontcolor: ffffff
+  category: education
 
 - onlyimage: true
   bgimg: modular-fabtextiles.jpg
@@ -77,6 +84,7 @@
   description: "The global distributed campus of (Almost) Anything."
   url: http://academany.org/
   img: academany.png
+  category: education
 
 - onlyimage: true
   bgimg: BY6_9650.jpg
@@ -94,6 +102,7 @@
   img: fab12.png
   bgcolor: EB3149
   fontcolor: ffffff
+  category: events
 
 - onlyimage: true
   bgimg: fab12_3.jpg
@@ -103,6 +112,7 @@
   description: "Connecting companies, fablabs, and individuals."
   url: http://www.fabeconomy.com/
   img: fabeconomy.png
+  category: economy
 
 - onlyimage: true
   bgimg: 3dprint.jpg
@@ -112,6 +122,7 @@
   description: "This one will be our store to buy fab academy kits and complete fablabs as well as selling projects emerging from the fablab network."
   url: https://shop.fabeconomy.com/
   img: shop_fabeconomy.png
+  category: economy
 
 - onlyimage: true
   bgimg: FLBcn-chicos.jpg
@@ -121,6 +132,7 @@
   description: "If you want to hire someone or submit your skills to find a job on the network, this is where you go."
   url: http://jobs.fabeconomy.com/
   img: jobs_fabeconomy.png
+  category: economy
 
 - onlyimage: true
   bgimg: residencies-plymouth-smith-9.jpg
@@ -130,6 +142,7 @@
   description: "Here, you can see the Fab Inventory. To be replaced soon."
   url: "https://docs.google.com/a/fab.city/spreadsheets/d/1U-jcBWOJEjBT5A0N84IUubtcHKMEMtndQPLCkZCkVsU/pub?single=true&gid=0&output=html"
   img: fabinventory.png
+  category: research
 
 - onlyimage: true
   bgimg: ludovic_mallegol.jpg
@@ -145,6 +158,7 @@
   description: "The first software version to drive the fablab’s machines."
   url: "http://fabmodules.org/"
   img: fab-cba.png
+  category: research
 
 - onlyimage: true
   bgimg: residencies-plymouth-bush-1.jpg
@@ -154,6 +168,7 @@
   description: "The new version of Fabmodules."
   url: "http://mods.cba.mit.edu/"
   img: modules-cba.png
+  category: research
 
 - onlyimage: true
   bgimg: FLBcn-chica.jpg
@@ -163,6 +178,7 @@
   description:  "Here you can have a look at some rare prototypes that were made all along the past years."
   url: http://mtm.cba.mit.edu/
   img: machines.png
+  category: research
 
 - onlyimage: true
   bgimg: FabLabOPENDAY2.jpg
@@ -172,6 +188,7 @@
   description:  "Have a look at the MTM machines."
   url: http://mtm.cba.mit.edu/machines/science/
   img: mtm2.png
+  category: research
 
 - onlyimage: true
   bgimg: FabLabOPENDAY4.jpg

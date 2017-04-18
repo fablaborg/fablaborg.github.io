@@ -1,7 +1,7 @@
 <section id="mosaic">
-	<div class="container" style="width:100%; margin: 0; padding: 0;">
+	<div class="container" id="parent" style="width:100%; margin: 0; padding: 0;">
 		{% for block in site.data.mosaic %}  
-			<div class="col-xs-6 col-sm-4 col-md-4 org-div bg-img" style="background-color: #{{ block.bgcolor }}; background-image: url(../img/backgrounds/{{ block.bgimg }}); ">
+			<div class="col-xs-6 col-sm-4 col-md-4 org-div bg-img box {{ block.category }}" style="background-color: #{{ block.bgcolor }}; background-image: url(../img/backgrounds/{{ block.bgimg }}); ">
 				{% if block.onlyimage == false %}
 				<a href="{{ block.url }}"target="_blank">	
 					<div class="wrapper">
