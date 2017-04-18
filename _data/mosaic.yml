@@ -1,0 +1,177 @@
+- onlyimage: true
+  bgimg: made_at_eu.jpg
+
+- onlyimage: false
+  organization: "Fab13"
+  description: "The 2017 International Fab Lab Conference in Santiago de Chile."
+  url: http://fab13.fabevent.org/
+  img: fab13.png
+  bgcolor: 1B3457
+  fontcolor: e0dfdf
+
+- onlyimage: true
+  bgimg: fab12.jpg
+
+- onlyimage: false
+  organization: "Fab Foundation"
+  description: "Created to support the growth of the Fab Lab network."
+  url: http://www.fabfoundation.org/
+  img: fabfoundation.png
+
+- onlyimage: true
+  bgimg: neil.jpg
+
+- onlyimage: false
+  organization: "Fab City"
+  description: "A new urban model for locally productive, globally connected cities."
+  url: http://www.fab.city/
+  img: fabcity.png
+
+- onlyimage: true
+  bgimg: residencies-paris-EMA.jpg
+
+- onlyimage: false
+  organization: "Fablabs.io"
+  description: "The place where we connect, interact, discuss, showcase and share projects and machines."
+  url: https://www.fablabs.io/
+  img: fablabsio.png
+
+- onlyimage: true
+  bgimg: adriana_ionascu.jpg
+
+- onlyimage: false
+  organization: "Fab Academy"
+  description: "The Fab Academy provides instruction and supervises investigation of the mechanisms, applications, and implications of digital fabrication."
+  url: http://fabacademy.org/
+  img: fabacademy.png
+  bgcolor: 2B9569
+  fontcolor: ffffff
+
+- onlyimage: true
+  bgimg: fabacademy_bcn_2016.jpg
+
+- onlyimage: false
+  organization: "Bio Academy"
+  description: "Bio Academy is a Synthetic Biology Program directed by George Church, professor of Genetics at Harvard medical school."
+  url: http://bio.academany.org/
+  img: bioacademy.png
+  bgcolor: 2B9569
+  fontcolor: ffffff
+
+- onlyimage: true
+  bgimg: workshops_bcn.png
+
+- onlyimage: false
+  organization: "Textile Academy"
+  description: "Textile Academy is a transdisciplinary course that focuses on the development of new technologies applied in the textile industry. "
+  url: http://textile-academy.org/bootcamp/
+  img: textile_academy.png
+  bgcolor: 2B9569
+  fontcolor: ffffff
+
+- onlyimage: true
+  bgimg: modular-fabtextiles.jpg
+
+- onlyimage: false
+  organization: "Academany"
+  description: "The global distributed campus of (Almost) Anything."
+  url: http://academany.org/
+  img: academany.png
+
+- onlyimage: true
+  bgimg: BY6_9650.jpg
+
+- onlyimage: true
+  bgimg: FLBcn-guitar.png
+
+- onlyimage: true
+  bgimg: fab12_5.jpg
+
+- onlyimage: false
+  organization: "Fab12"
+  description: "The 12th international Fab Lab Conference that took place in Shenzhen, Aug 2016."
+  url: http://fab12.fabevent.org/
+  img: fab12.png
+  bgcolor: EB3149
+  fontcolor: ffffff
+
+- onlyimage: true
+  bgimg: fab12_3.jpg
+
+- onlyimage: false
+  organization: "Fab Economy"
+  description: "Connecting companies, fablabs, and individuals."
+  url: http://www.fabeconomy.com/
+  img: fabeconomy.png
+
+- onlyimage: true
+  bgimg: 3dprint.jpg
+
+- onlyimage: false
+  organization: "Shop.FabEconomy"
+  description: "This one will be our store to buy fab academy kits and complete fablabs as well as selling projects emerging from the fablab network."
+  url: https://shop.fabeconomy.com/
+  img: shop_fabeconomy.png
+
+- onlyimage: true
+  bgimg: FLBcn-chicos.jpg
+
+- onlyimage: false
+  organization: "Jobs.FabEconomy"
+  description: "If you want to hire someone or submit your skills to find a job on the network, this is where you go."
+  url: http://jobs.fabeconomy.com/
+  img: jobs_fabeconomy.png
+
+- onlyimage: true
+  bgimg: residencies-plymouth-smith-9.jpg
+
+- onlyimage: false
+  organization: "Fab Inventory"
+  description: "Here, you can see the Fab Inventory. To be replaced soon."
+  url: "https://docs.google.com/a/fab.city/spreadsheets/d/1U-jcBWOJEjBT5A0N84IUubtcHKMEMtndQPLCkZCkVsU/pub?single=true&gid=0&output=html"
+  img: fabinventory.png
+
+- onlyimage: true
+  bgimg: ludovic_mallegol.jpg
+
+- onlyimage: true
+  bgimg: residencies-plymouth-ionascu-8.jpg
+
+- onlyimage: true
+  bgimg: amsterdam.jpg
+
+- onlyimage: false
+  organization: "Fab Modules"
+  description: "The first software version to drive the fablab’s machines."
+  url: "http://fabmodules.org/"
+  img: fab-cba.png
+
+- onlyimage: true
+  bgimg: residencies-plymouth-bush-1.jpg
+
+- onlyimage: false
+  organization: "Mods.CBA"
+  description: "The new version of Fabmodules."
+  url: "http://mods.cba.mit.edu/"
+  img: modules-cba.png
+
+- onlyimage: true
+  bgimg: FLBcn-chica.jpg
+
+- onlyimage: false
+  organization: "Machines that Make"
+  description:  "Here you can have a look at some rare prototypes that were made all along the past years."
+  url: http://mtm.cba.mit.edu/
+  img: machines.png
+
+- onlyimage: true
+  bgimg: FabLabOPENDAY2.jpg
+
+- onlyimage: false
+  organization: "Machines that Make 2"
+  description:  "Have a look at the MTM machines."
+  url: http://mtm.cba.mit.edu/machines/science/
+  img: mtm2.png
+
+- onlyimage: true
+  bgimg: FabLabOPENDAY4.jpg

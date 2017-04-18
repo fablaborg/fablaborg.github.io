@@ -1,10 +1,10 @@
 # Site settings
 
 title: Fablab Organization Website
-email: info@fabfoundation.org
-description: "A directory for all the projects within the Fablab Organization. "
+description: "A directory for the Fab Lab ecosystem."
+about: "This is a directory of all the projects within the Fab Lab organization. Here you will find the links to all the events, resources and projects happening in the Fab Lab network environment."
 url: https://fablaborg.github.io/demo
-
+email: info@fabfoundation.org
 
 
 
@@ -15,7 +15,7 @@ color:
   whites: FAFAFA
 
 fonts: 
-  primary: Karla
+  primary: Helvetica Neue
   secondary: Karla
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
