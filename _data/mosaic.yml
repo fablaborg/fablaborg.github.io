@@ -252,7 +252,7 @@
   category: events
 
 - onlyimage: true
-  bgimg: fab7.jpg
+  bgimg: fab7-ok.jpg
 
 - onlyimage: false
   organization: "Fab6"
