@@ -61,7 +61,7 @@
   description: "Bio Academy is a Synthetic Biology Program directed by George Church, professor of Genetics at Harvard medical school."
   url: http://bio.academany.org/
   img: bioacademy.png
-  bgcolor: 2B9569
+  bgcolor: 27b580
   fontcolor: ffffff
   category: education
 
@@ -202,7 +202,7 @@
   description: "The 11th international Fab Lab Conference that took place in Boston, Cambridge and Somerville, 2015."
   url: http://fab11.fabevent.org
   img: fab11.png
-  bgcolor: 28bb84 
+  bgcolor: 27b580
   fontcolor: ffffff
   category: events
 
@@ -270,7 +270,7 @@
   description: "The 5th international Fab Lab Conference that took place in Pune, India, 2009"
   url: http://cba.mit.edu/events/09.08.FAB5/index.html
   img: fab5.png
-  bgcolor: 28bb84
+  bgcolor: 27b580
   fontcolor: ffffff
   category: events
 
