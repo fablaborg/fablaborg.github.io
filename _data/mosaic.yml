@@ -84,6 +84,8 @@
   description: "The global distributed campus of (Almost) Anything."
   url: http://academany.org/
   img: academany.png
+  bgcolor: 2B9569
+  fontcolor: ffffff
   category: education
 
 - onlyimage: true
