@@ -6,7 +6,7 @@
   description: "The 2017 International Fab Lab Conference in Santiago de Chile."
   url: http://fab13.fabevent.org/
   img: fab13.png
-  bgcolor: 1B3457
+  bgcolor: 1B3457 
   fontcolor: e0dfdf
   category: events
 
@@ -28,6 +28,7 @@
   description: "A new urban model for locally productive, globally connected cities."
   url: http://www.fab.city/
   img: fabcity.png
+  bgcolor: fafafa 
   category: network
 
 - onlyimage: true
@@ -48,8 +49,8 @@
   description: "The Fab Academy provides instruction and supervises investigation of the mechanisms, applications, and implications of digital fabrication."
   url: http://fabacademy.org/
   img: fabacademy.png
-  bgcolor: 2B9569
-  fontcolor: ffffff
+  bgcolor: 1B3457
+  fontcolor: e0dfdf
   category: education
 
 - onlyimage: true
@@ -72,7 +73,7 @@
   description: "Textile Academy is a transdisciplinary course that focuses on the development of new technologies applied in the textile industry. "
   url: http://textile-academy.org/bootcamp/
   img: textile_academy.png
-  bgcolor: 2B9569
+  bgcolor: f13c53
   fontcolor: ffffff
   category: education
 
@@ -83,9 +84,8 @@
   organization: "Academany"
   description: "The global distributed campus of (Almost) Anything."
   url: http://academany.org/
-  img: academany.png
-  bgcolor: 2B9569
-  fontcolor: ffffff
+  img: academany-black.png
+  bgcolor: fafafa
   category: education
 
 - onlyimage: true
@@ -102,8 +102,7 @@
   description: "The 12th international Fab Lab Conference that took place in Shenzhen, Aug 2016."
   url: http://fab12.fabevent.org/
   img: fab12.png
-  bgcolor: EB3149
-  fontcolor: ffffff
+  bgcolor: fafafa
   category: events
 
 - onlyimage: true
@@ -124,6 +123,7 @@
   description: "This one will be our store to buy fab academy kits and complete fablabs as well as selling projects emerging from the fablab network."
   url: https://shop.fabeconomy.com/
   img: shop_fabeconomy.png
+  bgcolor: fafafa 
   category: economy
 
 - onlyimage: true
@@ -160,6 +160,7 @@
   description: "The first software version to drive the fablab’s machines."
   url: "http://fabmodules.org/"
   img: fab-cba.png
+  bgcolor: fafafa 
   category: research
 
 - onlyimage: true
@@ -180,6 +181,7 @@
   description:  "Here you can have a look at some rare prototypes that were made all along the past years."
   url: http://mtm.cba.mit.edu/
   img: machines.png
+  bgcolor: fafafa 
   category: research
 
 - onlyimage: true
@@ -200,7 +202,7 @@
   description: "The 11th international Fab Lab Conference that took place in Boston, Cambridge and Somerville, 2015."
   url: http://fab11.fabevent.org
   img: fab11.png
-  bgcolor: 14BD7E
+  bgcolor: 28bb84 
   fontcolor: ffffff
   category: events
 
@@ -212,7 +214,7 @@
   description: "The 10th international Fab Lab Conference that took place in Barcelona, Spain, 2014."
   url: https://www.fab10.org/en/home
   img: fab10.png
-  bgcolor: 14BD7E
+  bgcolor: f13c53 
   fontcolor: ffffff
   category: events
 
@@ -224,7 +226,6 @@
   description: "The 9th international Fab Lab Conference that took place in Yohohama, Japan 2013."
   url: http://www.fab9jp.com
   img: fab9.png
-  bgcolor: fafafa
   category: events
 
 - onlyimage: true
@@ -235,8 +236,7 @@
   description: "The 8th international Fab Lab Conference that took place in Massey University, New Zealand, 2012"
   url: https://web-beta.archive.org/web/20120501010030/http://www.fab8nz.com:80/
   img: fab8.png
-  bgcolor: EB3149
-  fontcolor: ffffff
+  bgcolor: fafafa
   category: events
 
 - onlyimage: true
@@ -247,7 +247,8 @@
   description: "The 7th international Fab Lab Conference that took place in Lima, Peru, 2011"
   url: https://web-beta.archive.org/web/20121118030210/http://fab7.pe:80/english/index.html
   img: fab7.png
-  bgcolor: fafafa
+  bgcolor: 1b3457
+  fontcolor: ffffff
   category: events
 
 - onlyimage: true
@@ -258,7 +259,7 @@
   description: "The 6th international Fab Lab Conference that took place in Amsterdam, Netherlands, 2010"
   url: https://web-beta.archive.org/web/20130107004523/http://fab6.nl:80/
   img: fab6.png
-  bgcolor: ffffff
+  bgcolor: fafafa
   category: events
 
 - onlyimage: true
@@ -269,7 +270,8 @@
   description: "The 5th international Fab Lab Conference that took place in Pune, India, 2009"
   url: http://cba.mit.edu/events/09.08.FAB5/index.html
   img: fab5.png
-  bgcolor: fafafa
+  bgcolor: 28bb84
+  fontcolor: ffffff
   category: events
 
 - onlyimage: true
@@ -291,7 +293,8 @@
   description: "The 3rd international Fab Lab Conference that took place in Pretoria, South Africa, 2007"
   url: http://cba.mit.edu/events/06.06.ZA/symposium.html
   img: fab3.png
-  bgcolor: fafafa
+  bgcolor: f13c53
+  fontcolor: ffffff
   category: events
 
 - onlyimage: true
