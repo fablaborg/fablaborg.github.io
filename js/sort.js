@@ -9,8 +9,6 @@ $(document).ready(function() {
 		// the # from the beginning
 		var activeClass = location.hash.substring(1);
 
-		console.log();
-
 		if (activeClass && $boxs.hasClass(activeClass)) {
 		// If the hash the name of one of the classes
 		// use it to filter the category

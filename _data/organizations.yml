@@ -1,8 +1,4 @@
-- onlyimage: true
-  bgimg: made_at_eu.jpg
-
-- onlyimage: false
-  organization: "Fab13"
+- organization: "Fab13"
   description: "The 2017 International Fab Lab Conference in Santiago de Chile."
   url: http://fab13.fabevent.org/
   img: fab13.svg
@@ -10,42 +6,26 @@
   fontcolor: e0dfdf
   category: events
 
-- onlyimage: true
-  bgimg: fab12.jpg
-
-- onlyimage: false
-  organization: "Fab Foundation"
+- organization: "Fab Foundation"
   description: "Created to support the growth of the Fab Lab network."
   url: http://www.fabfoundation.org/
   img: fabfoundation.svg
   category: network
 
-- onlyimage: true
-  bgimg: neil.jpg
-
-- onlyimage: false
-  organization: "Fab City"
+- organization: "Fab City"
   description: "A new urban model for locally productive, globally connected cities."
   url: http://www.fab.city/
   img: fabcity.svg
   bgcolor: fafafa 
   category: network
 
-- onlyimage: true
-  bgimg: residencies-paris-EMA.jpg
-
-- onlyimage: false
-  organization: "Fablabs.io"
+- organization: "Fablabs.io"
   description: "The place where we connect, interact, discuss, showcase and share projects and machines."
   url: https://www.fablabs.io/
   img: fablabsio.svg
   category: network
 
-- onlyimage: true
-  bgimg: adriana_ionascu.jpg
-
-- onlyimage: false
-  organization: "Fab Academy"
+- organization: "Fab Academy"
   description: "The Fab Academy provides instruction and supervises research of the mechanisms, applications, and implications of digital fabrication."
   url: http://fabacademy.org/
   img: fabacademy.svg
@@ -53,11 +33,7 @@
   fontcolor: e0dfdf
   category: education
 
-- onlyimage: true
-  bgimg: fabacademy_bcn_2016.jpg
-
-- onlyimage: false
-  organization: "Bio Academy"
+- organization: "Bio Academy"
   description: "Bio Academy is a Synthetic Biology Program directed by George Church, professor of Genetics at Harvard medical school."
   url: http://bio.academany.org/
   img: bioacademy.svg
@@ -65,11 +41,7 @@
   fontcolor: ffffff
   category: education
 
-- onlyimage: true
-  bgimg: workshops_bcn.png
-
-- onlyimage: false
-  organization: "Textile Academy"
+- organization: "Textile Academy"
   description: "Textile Academy is a transdisciplinary course that focuses on the development of new technologies applied in the textile industry. "
   url: http://textile-academy.org/bootcamp/
   img: textile_academy.svg
@@ -77,137 +49,78 @@
   fontcolor: ffffff
   category: education
 
-- onlyimage: true
-  bgimg: modular-fabtextiles.jpg
-
-- onlyimage: false
-  organization: "Academany"
+- organization: "Academany"
   description: "The global distributed campus of (Almost) Anything."
   url: http://academany.org/
   img: academany-black.svg
   bgcolor: fafafa
   category: education
 
-- onlyimage: true
-  bgimg: BY6_9650.jpg
-
-- onlyimage: true
-  bgimg: FLBcn-guitar.png
-
-- onlyimage: true
-  bgimg: fab12_5.jpg
-
-- onlyimage: false
-  organization: "Fab12"
+- organization: "Fab12"
   description: "The 12th international Fab Lab Conference that took place in Shenzhen, Aug 2016."
   url: http://fab12.fabevent.org/
   img: fab12.svg
   bgcolor: fafafa
   category: events
 
-- onlyimage: true
-  bgimg: fab12_3.jpg
-
-- onlyimage: false
-  organization: "Fab Economy"
+- organization: "Fab Economy"
   description: "Connecting companies, fablabs, and individuals."
   url: http://www.fabeconomy.com/
   img: fabeconomy.svg
   category: economy
 
-- onlyimage: true
-  bgimg: 3dprint.jpg
-
-- onlyimage: false
-  organization: "Shop.FabEconomy"
+- organization: "Shop.FabEconomy"
   description: "This one will be our store to buy fab academy kits and complete fablabs as well as selling projects emerging from the fablab network."
   url: https://shop.fabeconomy.com/
   img: shop_fabeconomy.svg
   bgcolor: fafafa 
   category: economy
 
-- onlyimage: true
-  bgimg: FLBcn-chicos.jpg
-
-- onlyimage: false
-  organization: "Jobs.FabEconomy"
+- organization: "Jobs.FabEconomy"
   description: "If you want to hire someone or submit your skills to find a job on the network, this is where you go."
   url: http://jobs.fabeconomy.com/
   img: jobs_fabeconomy.svg
   category: economy
 
-- onlyimage: true
-  bgimg: residencies-plymouth-smith-9.jpg
-
-- onlyimage: false
-  organization: "Fab Inventory"
+- organization: "Fab Inventory"
   description: "Here, you can see the Fab Inventory. To be replaced soon."
   url: "https://docs.google.com/a/fab.city/spreadsheets/d/1U-jcBWOJEjBT5A0N84IUubtcHKMEMtndQPLCkZCkVsU/pub?single=true&gid=0&output=html"
   img: fabinventory.svg
   category: research
 
-- onlyimage: true
-  bgimg: ludovic_mallegol.jpg
-
-- onlyimage: true
-  bgimg: residencies-plymouth-ionascu-8.jpg
-
-- onlyimage: true
-  bgimg: amsterdam.jpg
-
-- onlyimage: false
-  organization: "Fab Modules"
+- organization: "Fab Modules"
   description: "The first software version to drive the fablab’s machines."
   url: "http://fabmodules.org/"
   img: fab-cba.svg
   bgcolor: fafafa 
   category: research
 
-- onlyimage: true
-  bgimg: residencies-plymouth-bush-1.jpg
-
-- onlyimage: false
-  organization: "Mods.CBA"
+- organization: "Mods.CBA"
   description: "The new version of Fabmodules."
   url: "http://mods.cba.mit.edu/"
   img: modules-cba.svg
   category: research
 
-- onlyimage: true
-  bgimg: FLBcn-chica.jpg
-
-- onlyimage: false
-  organization: "Machines that Make"
+- organization: "Machines that Make"
   description:  "Here you can have a look at some rare prototypes that were made all along the past years."
   url: http://mtm.cba.mit.edu/
   img: machines.svg
   bgcolor: fafafa 
   category: research
 
-- onlyimage: true
-  bgimg: FabLabOPENDAY2.jpg
-
-- onlyimage: false
-  organization: "Machines that Make 2"
+- organization: "Machines that Make 2"
   description:  "Have a look at the MTM machines."
   url: http://mtm.cba.mit.edu/machines/science/
   img: mtm2.svg
   category: research
 
-- onlyimage: true
-  bgimg: FabLabOPENDAY4.jpg
-
-- onlyimage: false
-  organization: "Fab11"
+- organization: "Fab11"
   description: "The 11th international Fab Lab Conference that took place in Boston, Cambridge and Somerville, 2015."
   url: http://fab11.fabevent.org
   img: fab11.svg
   bgcolor: 27b580
   fontcolor: ffffff
   category: events
-
-- onlyimage: true
-  bgimg: fab11.jpg
 
 - onlyimage: false
   organization: "Fab10"
@@ -218,32 +131,20 @@
   fontcolor: ffffff
   category: events
 
-- onlyimage: true
-  bgimg: fab10_2.jpg
-
-- onlyimage: false
-  organization: "Fab9"
+- organization: "Fab9"
   description: "The 9th international Fab Lab Conference that took place in Yohohama, Japan 2013."
   url: http://www.fab9jp.com
   img: fab9.svg
   category: events
 
-- onlyimage: true
-  bgimg: fab9.png
-
-- onlyimage: false
-  organization: "Fab8"
+- organization: "Fab8"
   description: "The 8th international Fab Lab Conference that took place in Massey University, New Zealand, 2012"
   url: https://web-beta.archive.org/web/20120501010030/http://www.fab8nz.com:80/
   img: fab8.png
   bgcolor: fafafa
   category: events
 
-- onlyimage: true
-  bgimg: fab8.jpg
-
-- onlyimage: false
-  organization: "Fab7"
+- organization: "Fab7"
   description: "The 7th international Fab Lab Conference that took place in Lima, Peru, 2011"
   url: https://web-beta.archive.org/web/20121118030210/http://fab7.pe:80/english/index.html
   img: fab7.svg
@@ -251,22 +152,14 @@
   fontcolor: ffffff
   category: events
 
-- onlyimage: true
-  bgimg: fab7-ok.jpg
-
-- onlyimage: false
-  organization: "Fab6"
+- organization: "Fab6"
   description: "The 6th international Fab Lab Conference that took place in Amsterdam, Netherlands, 2010"
   url: https://web-beta.archive.org/web/20130107004523/http://fab6.nl:80/
   img: fab6.svg
   bgcolor: fafafa
   category: events
 
-- onlyimage: true
-  bgimg: fab6.jpg
-
-- onlyimage: false
-  organization: "Fab5"
+- organization: "Fab5"
   description: "The 5th international Fab Lab Conference that took place in Pune, India, 2009"
   url: http://cba.mit.edu/events/09.08.FAB5/index.html
   img: fab5.svg
@@ -274,22 +167,14 @@
   fontcolor: ffffff
   category: events
 
-- onlyimage: true
-  bgimg: fab5.jpg
-
-- onlyimage: false
-  organization: "Fab4"
+- organization: "Fab4"
   description: "The 4th international Fab Lab Conference that took place in Chicago, US, 2008"
   url: http://cba.mit.edu/events/07.08.fab/index.html
   img: fab4.svg
   bgcolor: ffffff
   category: events
 
-- onlyimage: true
-  bgimg: chicosmakingsense2.jpg
-
-- onlyimage: false
-  organization: "Fab3"
+- organization: "Fab3"
   description: "The 3rd international Fab Lab Conference that took place in Pretoria, South Africa, 2007"
   url: http://cba.mit.edu/events/06.06.ZA/symposium.html
   img: fab3.svg
@@ -297,22 +182,14 @@
   fontcolor: ffffff
   category: events
 
-- onlyimage: true
-  bgimg: fab_skate.jpg
-
-- onlyimage: false
-  organization: "Fab2"
+- organization: "Fab2"
   description: "The 2nd international Fab Lab Conference that took place in Høgskolen i Tromsø, 2006"
   url: http://cba.mit.edu/events/05.07.Norway/index.html
   img: fab2.svg
   bgcolor: ffffff
   category: events
 
-- onlyimage: true
-  bgimg: vintage_neil.jpg
-
-- onlyimage: false
-  organization: "Fab1"
+- organization: "Fab1"
   description: "The first Fab Lab User Group Meeting @ The Center for Bits and Atoms, 2005"
   url: http://cba.mit.edu/events/05.07.Norway/index.html
   img: fab1.svg

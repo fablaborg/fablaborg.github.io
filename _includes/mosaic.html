@@ -1,3 +1,4 @@
+<!--
 <section id="mosaic">
 	<div class="container" id="parent" style="width:100%; margin: 0; padding: 0;">
 		{% for block in site.data.mosaic %}  
@@ -18,4 +19,46 @@
 			</div>
 		{% endfor %}
 	</div>
+</section>
+-->
+
+<section id="mosaic">
+    <div class="container" id="parent" style="width:100%; margin: 0; padding: 0;">
+
+
+    	{% assign imgCounter = 0 %}
+
+        {% for entry in site.data.organizations %}  
+
+     		<div class="col-xs-12 col-sm-4 col-md-4 org-div bg-img box" style="background-image: url(../img/backgrounds/{{ site.data.images[imgCounter] }}); "></div>
+
+
+
+			<div class="col-xs-12 col-sm-4 col-md-4 org-div bg-img box {{ entry.category }}" style="background-color: #{{ entry.bgcolor }};">
+	          	<a href="{{ entry.url }}"target="_blank">	
+					<div class="wrapper">
+						<div class="description">	
+							<h4 style="color:#{{ entry.fontcolor }};">{{ entry.organization }}</h4>
+							<p style="color:#{{ entry.fontcolor }};">{{ entry.description }}</p>
+						</div>
+						<div>
+							<img class="org-img" src="/img/logos/{{ entry.img }}">
+						</div>
+					</div>
+				</a>
+			</div>
+
+            {% capture imgPosition %}{{ imgCounter | plus: 1 }}{% endcapture %} 
+            {% assign imgCounter = imgPosition | plus: 0 %}
+
+			{% if imgCounter  < site.data.images.length %}
+            	{% assign imgCounter = 0 %}
+			{% endif %}
+            
+        {% endfor %}
+
+        <div class="col-xs-12 col-sm-4 col-md-4 org-div bg-img box" style="background-image: url(../img/backgrounds/vintage_neil.jpg); "></div>
+
+
+    </div>
 </section>
