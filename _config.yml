@@ -1,19 +1,26 @@
 # Site settings
 
 title: Fablab Organization Website
+description: "A directory for the Fab Lab ecosystem."
+about: "This is a directory of all the projects within the Fab Lab organization. Here you will find the links to all the events, resources and projects happening in the Fab Lab network environment."
+url: https://fablaborg.github.io/
 email: info@fabfoundation.org
-description: "A directory for all the projects within the Fablab Organization. "
-url: http://127.0.0.1:4000/
+
 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 231f20
-  secondary: 231f20
-  whites: FAFAFA
+  primary: 171717
+  secondary: e2e2e2
+  blacks: 171717 
+  whites: ffffff
+  blue: 1b3457
+  red: f13c53
+  green: 27b580
+  gray: fafafa
 
 fonts: 
-  primary: Karla
+  primary: Helvetica Neue
   secondary: Karla
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -78,4 +85,4 @@ gems:
   - kramdown
 
 
-urlimg: '/img/' 
+

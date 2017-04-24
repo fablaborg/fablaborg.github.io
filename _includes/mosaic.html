@@ -1,13 +1,21 @@
 <section id="mosaic">
-  <div class="container">
-  {% for org in site.data.orgs %}               
-      <div class="col-xs-12 col-sm-6 col-md-4 org-div box-grow">
-        <table id="wrapper">
-          <tr>
-            <td><a href="{{ org.url }}" target="_blank"><img class="org-img" src="https://fablaborg.github.io/demo/img/logos/{{ org.img }}"></td>   </a>
-          </tr>
-        </table>
-      </div>
-  {% endfor %}
-  </div>
+	<div class="container" id="parent" style="width:100%; margin: 0; padding: 0;">
+		{% for block in site.data.mosaic %}  
+			<div class="col-xs-12 col-sm-4 col-md-4 org-div bg-img box {{ block.category }}" style="background-color: #{{ block.bgcolor }}; background-image: url(../img/backgrounds/{{ block.bgimg }}); ">
+				{% if block.onlyimage == false %}
+				<a href="{{ block.url }}"target="_blank">	
+					<div class="wrapper">
+						<div class="description">	
+							<h4 style="color:#{{ block.fontcolor }};">{{ block.organization }}</h4>
+							<p style="color:#{{ block.fontcolor }};">{{ block.description }}</p>
+						</div>
+						<div>
+							<img class="org-img" src="/img/logos/{{ block.img }}">
+						</div>
+					</div>
+				</a>
+				{% endif %}
+			</div>
+		{% endfor %}
+	</div>
 </section>
