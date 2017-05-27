@@ -168,14 +168,14 @@
   category: events
 
 - organization: "Fab4"
-  description: "The 4th international Fab Lab Conference that took place in Chicago, US, 2008"
+  description: "The 4th international Fab Lab Conference that took place in Chicago, US, 2007"
   url: http://cba.mit.edu/events/07.08.fab/index.html
   img: fab4.svg
   bgcolor: ffffff
   category: events
 
 - organization: "Fab3"
-  description: "The 3rd international Fab Lab Conference that took place in Pretoria, South Africa, 2007"
+  description: "The 3rd international Fab Lab Conference that took place in Pretoria, South Africa, 2006"
   url: http://cba.mit.edu/events/06.06.ZA/symposium.html
   img: fab3.svg
   bgcolor: f13c53
@@ -183,7 +183,7 @@
   category: events
 
 - organization: "Fab2"
-  description: "The 2nd international Fab Lab Conference that took place in Høgskolen i Tromsø, 2006"
+  description: "The 2nd international Fab Lab Conference that took place in Høgskolen i Tromsø, 2005"
   url: http://cba.mit.edu/events/05.07.Norway/index.html
   img: fab2.svg
   bgcolor: ffffff
