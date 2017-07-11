@@ -889,7 +889,8 @@ video {
 
 
 #discourse-comments {
+    margin: 0px;
     margin-top: 50px !important;
     margin-bottom: 50px !important;
-    width: 90% !important;
+    width: 80% !important;
 }
