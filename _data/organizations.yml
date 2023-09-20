@@ -63,25 +63,6 @@
   bgcolor: fafafa
   category: events
 
-- organization: "Fab Economy"
-  description: "Connecting companies, fablabs, and individuals."
-  url: http://www.fabeconomy.com/
-  img: fabeconomy.svg
-  category: economy
-
-- organization: "Shop.FabEconomy"
-  description: "This one will be our store to buy fab academy kits and complete fablabs as well as selling projects emerging from the fablab network."
-  url: https://shop.fabeconomy.com/
-  img: shop_fabeconomy.svg
-  bgcolor: fafafa 
-  category: economy
-
-- organization: "Jobs.FabEconomy"
-  description: "If you want to hire someone or submit your skills to find a job on the network, this is where you go."
-  url: http://jobs.fabeconomy.com/
-  img: jobs_fabeconomy.svg
-  category: economy
-
 - organization: "Fab Inventory"
   description: "Here, you can see the Fab Inventory. To be replaced soon."
   url: "https://docs.google.com/a/fab.city/spreadsheets/d/1U-jcBWOJEjBT5A0N84IUubtcHKMEMtndQPLCkZCkVsU/pub?single=true&gid=0&output=html"
