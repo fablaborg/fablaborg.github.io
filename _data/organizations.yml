@@ -1,3 +1,11 @@
+- organization: "Fab24"
+  description: "The 2024 International Fab Lab Conference in Puebla Mexico."
+  url: http://fab24.fabevent.org/
+  img: fab24_logo.png
+  bgcolor: 1B3457
+  fontcolor: e0dfdf
+  category: events
+
 - organization: "Fab13"
   description: "The 2017 International Fab Lab Conference in Santiago de Chile."
   url: http://fab13.fabevent.org/
