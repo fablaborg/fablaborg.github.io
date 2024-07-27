@@ -1,16 +1,56 @@
+- organization: "DistInc"
+  description: "A distributed incubator for the Academany ecosystem"
+  url: https://distinc.academany.org/ 
+  img: academany-black.svg
+  category: network
+
+- organization: "Fab Futures"
+  description: "Vocational skills for the future"
+  url: https://futures.academany.org/ 
+  img: academany-black.svg
+  category: education
+
+- organization: "Panopticom"
+  description: "The Universally Accessible Data Globe / See the world!"
+  url: https://panopticom.fabcloud.io/ 
+  img: fabcloudio.png
+  bgcolor: 1B3457
+  fontcolor: e0dfdf
+  category: network
+
+- organization: "Fab Store"
+  description: "From you to the world, from the world to you"
+  url: https://fablab.store 
+  img: fabstore.png
+  bgcolor: 1B3457
+  fontcolor: e0dfdf
+  category: network
+
+- organization: "HyTech hygiene technologies"
+  description: ""
+  url: https://hytech.fabcloud.io/ 
+  img: fabcloudio.png
+  category: network
+
+- organization: "Fab Jobs"
+  description: "Jobs and opportunities of Academany graduates"
+  url: https://jobs.academany.org 
+  img: academany-black.svg
+  category: network
+
+- organization: "Fab City Technologies"
+  description: ""
+  url: https://fct.fabcloud.io/
+  img: fabcloudio.png
+  bgcolor: 1B3457
+  fontcolor: e0dfdf
+  category: network
+
 - organization: "Fab24"
   description: "The 2024 International Fab Lab Conference in Puebla Mexico."
   url: http://fab24.fabevent.org/
   img: fab24_logo.png
   bgcolor: 1B3457
-  fontcolor: e0dfdf
-  category: events
-
-- organization: "Fab13"
-  description: "The 2017 International Fab Lab Conference in Santiago de Chile."
-  url: http://fab13.fabevent.org/
-  img: fab13.svg
-  bgcolor: 1B3457 
   fontcolor: e0dfdf
   category: events
 
@@ -63,6 +103,60 @@
   img: academany-black.svg
   bgcolor: fafafa
   category: education
+
+- organization: "Fab23"
+  description: "The 2023 International Fab Lab Conference in Thimphu, Bhutan with the theme #Designing Resilient Futures."
+  url: http://fab23.fabevent.org/
+  img: fab23.svg
+  bgcolor: 1B3457
+  fontcolor: e0dfdf
+  category: events
+
+- organization: "Bali Fab Fest"
+  description: "The 2022 International Fab Lab Conference in Bali (Indonesia) and Fab City Summit with the theme #Designing Emergent Realities."
+  url: http://bali.fabevent.org/
+  img: fab17.svg
+  bgcolor: 27b580
+  fontcolor: e0dfdf
+  category: events
+
+- organization: "Fab16"
+  description: "The 2021 Online International Fab Lab Conference in Montréal (Canada) and the Fab City Summit online with the theme #Fabricating the Commons."
+  url: http://fab16.fabevent.org/
+  img: fab16.png
+  category: events
+
+- organization: "FabX Live"
+  description: "The 2020 Online International Fab Lab Conference"
+  url: http://fabxlive.fabevent.org/
+  img: fabx_live.png
+  bgcolor: 1B3457
+  fontcolor: e0dfdf
+  category: events
+
+- organization: "Fab15"
+  description: "The 2019 International Fab Lab Conference in El Gouna, Egypt. with the theme #Collectivly Independent"
+  url: http://fab15.fabevent.org/
+  img: fab15.png
+  bgcolor: f13c53
+  fontcolor: e0dfdf
+  category: events
+
+- organization: "Fab14"
+  description: "The 2018 International Fab Lab Conference in Toulouse, France. with the theme #Fabricating Resilence"
+  url: http://fab14.fabevent.org/
+  img: fab14.svg
+  bgcolor: 27b580
+  fontcolor: e0dfdf
+  category: events
+
+- organization: "Fab13"
+  description: "The 2017 International Fab Lab Conference in Santiago de Chile."
+  url: http://fab13.fabevent.org/
+  img: fab13.svg
+  bgcolor: 1B3457 
+  fontcolor: e0dfdf
+  category: events
 
 - organization: "Fab12"
   description: "The 12th international Fab Lab Conference that took place in Shenzhen, Aug 2016."
