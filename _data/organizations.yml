@@ -1,3 +1,9 @@
+- organization: "Fab 2.0 Portal"
+  description: "Open designs of fab lab machines that can be made in a fab lab"
+  url: https://machines.fabcloud.io 
+  img: academany-black.svg
+  category: research
+
 - organization: "DistInc"
   description: "A distributed incubator for the Academany ecosystem"
   url: https://distinc.academany.org/ 
